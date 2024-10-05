@@ -1,4 +1,4 @@
-# FLIPS GUI Practice
+# FLIPS Python GUI Practice
 
 A simple wrapper for the FLIPS CLI tool, used for IPS rom patching. 
 
